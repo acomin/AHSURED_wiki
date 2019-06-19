@@ -49,4 +49,5 @@ Consider if there are other sectors/strata from the total susceptible population
 
 &nbsp;
 
-:arrow_right: [**Go to AHSURED checklist**](https://github.com/SVA-SE/AHSURED/wiki/3%29-AHSURED-checklist)
+:arrow_right: [**Go to AHSURED checklist**](https://github.com/SVA-SE/AHSURED/wiki/AHSURED-checklist)
+
