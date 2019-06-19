@@ -47,3 +47,6 @@ Document also whether a particular surveillance component has a different survei
 ### 1.11 Population strata not covered 
 Consider if there are other sectors/strata from the total susceptible population (defined in the surveillance scenario) that are not being covered by all the components the surveillance system together. 
 
+&nbsp;
+
+:arrow_right: [**Go to AHSURED checklist**](https://github.com/SVA-SE/AHSURED/wiki/3%29-AHSURED-checklist)
