@@ -28,7 +28,10 @@ Note that some items in the checklist might be critical to report for some surve
 
 A **critical item** is a piece of information that is very important to report in order to understand and interpret surveillance outputs. An **optional item** is an additional piece of information that might enhance the interpretation of surveillance results if reported, but that won’t hinder such interpretation if not reported. An **irrelevant** item usually does not pertain to a specific surveillance objective (e.g. timeliness of detection is very relevant for early detection but not relevant for demonstrating disease freedom). In any case, any surveillance item can be reported, regardless their objective−specific relevance. 
 
-The checklist with objective-specific 
+The list of surveillance items to report with objective-specific relevance can be found in the [checklist page](https://github.com/SVA-SE/AHSURED/wiki/AHSURED-checklist)
 
-:arrow_right:[**Go to items description**](https://github.com/SVA-SE/AHSURED/wiki/Description-of-surveillance-items-in-the-checklist)  
-:arrow_right:[**Go to checklist**](https://github.com/SVA-SE/AHSURED/wiki/AHSURED-checklist)
+&nbsp;
+
+:arrow_right: [**Go to items description**](https://github.com/SVA-SE/AHSURED/wiki/Description-of-surveillance-items-in-the-checklist)  
+
+:arrow_right: [**Go to checklist**](https://github.com/SVA-SE/AHSURED/wiki/AHSURED-checklist)
