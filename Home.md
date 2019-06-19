@@ -26,3 +26,4 @@ This is an example of how the architecture of surveillace can be described:
 
 ![Surveillance Example](https://github.com/SVA-SE/AHSURED/blob/master/img/Example.png)
 
+[Go to INSTRUCTIONS](https://github.com/SVA-SE/AHSURED/wiki/2.-Instructions)
