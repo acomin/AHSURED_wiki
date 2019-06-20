@@ -7,6 +7,10 @@ The *rationale* behind it is that by moving towards more output−based standard
 The idea of reporting guidelines comes from the field of evidence−based medicine and serves to improve consistency and quality of information reported in scientific journals. A few reporting guidelines directly relevant to the veterinary field are available, such as [REFLECT](http://www.reflect−statement.org/) and [STROBE-Vet](https://strobevet−statement.org/). These statements target randomized controlled trials and observational studies reported in veterinary scientific literature and are based on guidelines already developed for studies in humans (CONSORT and STROBE). Several more are available for studies in the medical field (for an overview, see https://www.equator−network.org/). However, none of these are directly applicable to surveillance activities. 
 Note that the term ‘reporting’ in this context does not refer to the procedure of notification of disease suspicions or −findings to authorities – it is about communication of surveillance outcomes to a broader audience, including e.g. relevant industries, trade partners and other stakeholders.  
 
+<br/>
+
+> :point_right: The choice of a Wiki format was motivated by the fact that refinements and improvements of the guidelines are both expected and welcome, so **feel free to contribute**! Just click the *edit button* at the top right corner of the page and add your contribution. Please note that this wiki uses Markdown syntax, which will be rendered as HTML. You can preview the page by clicking the *Preview* tab.
+
 <br/><br/>
 
 ## Background terminology
