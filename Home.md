@@ -9,7 +9,7 @@ Note that the term ‘reporting’ in this context does not refer to the procedu
 
 <br/>
 
-> :point_right: The choice of a Wiki format was motivated by the fact that refinements and improvements of the guidelines are both expected and welcome, so **feel free to contribute**! Just click the *edit button* at the top right corner of the page and add your contribution. Please note that this wiki uses Markdown syntax, which will be rendered as HTML. You can preview the page by clicking the *Preview* tab.
+> :point_right: The choice of a Wiki format was motivated by the fact that refinements and improvements of the guidelines are both expected and welcome, so **feel free to contribute**! 
 
 <br/><br/>
 
