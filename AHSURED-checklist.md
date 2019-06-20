@@ -1,39 +1,70 @@
 
-|Item     | Disease <br> Freedom | Case <br> Detection | Prevalence <br> Estimation  | Early <br> Detection
+|Objective-specific relevance of the checklist items    | Disease <br> Freedom | Case <br> Detection | Prevalence <br> Estimation  | Early <br> Detection
 | :---          |  :---: | :---: | :---:  | :---: |
-| **1. BACKGROUND** ||||
-| **1.1 Hazard** | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
-**1.2 Geographical area** |:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: 
+|**1. BACKGROUND**||||
+| 1.1 Hazard| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 1.2 Geographical area|:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
+| 1.3 Susceptible population |:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
+| 1.4 Historical situation |:heavy_check_mark:| :heavy_check_mark: | :heavy_minus_sign:| :heavy_minus_sign:|
+| 1.5 Surveillance purpose |:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
+| 1.6 Surveillance objective |:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
+| 1.7 Risk characteristics |:heavy_check_mark:| :heavy_check_mark: | :heavy_minus_sign:| :heavy_check_mark:|
+| 1.8 Legal requirements & actions taken as a result of finding | :heavy_check_mark:| :heavy_check_mark: |:heavy_check_mark:|:heavy_minus_sign:|
+| 1.9 Institutions involved & financing |:heavy_minus_sign:|:heavy_minus_sign:|:heavy_minus_sign:|:heavy_minus_sign:|
+| 1.10 Identification of surveillance components |:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| 
+| 1.11 Population strata not covered |:heavy_check_mark:| :heavy_check_mark: |:heavy_check_mark:|:heavy_minus_sign:|
+|**2. COMPONENT CHARACTERISTICS**||||
+| 2.1 Data collection point | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 2.2 Surveillance approach | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 2.3 Type of hazard indicator |:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 2.4 Type of material collected | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 2.5 Case definition | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+|**3. TARGET POPULATION**||||
+| 3.1 Target criteria | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 3.2 Population coverage | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+|**4. ENHANCEMENTS**||||
+| 4.1 Enhancements | :heavy_minus_sign: | :heavy_minus_sign:| :heavy_minus_sign:| :heavy_minus_sign:|
+|**5. TESTING PROTOCOL**||||
+| 5.1 Pooling | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 5.2 Screening/first test | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 5.3 Confirmatory/ second test |:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 5.4. Accuracy of the testing protocol | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+|**6. STUDY DESIGN**||||
+| 6.1 Sampling design| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 6.2 Number of target units in the target population  | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+|**7. SAMPLING STRATEGY**||||
+| 7.1 Sampling at the primary sampling unit level| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 7.2 Sampling at the secondary sampling unit level  | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 7.3 Sample allocation at the primary and secondary levels  |:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 7.4 Risk−based allocation | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 7.5 Sample size | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 7.6 Sample collection timeline | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 7.7 Who collects the samples | :heavy_minus_sign:| :heavy_check_mark:| :heavy_minus_sign:|  :heavy_minus_sign:|
+|**8. TIMELINESS**||||
+| 8.1 Time from sampling to report | :x: | :heavy_minus_sign:| :heavy_minus_sign:| :heavy_minus_sign:|
+| 8.2 Time from confirmation to action | :x: |:heavy_minus_sign:| :x:| :heavy_minus_sign:| 
+|**9. RESULTS**||||
+| 9.1 Number of epidemiological units investigated | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 9.2 Test results (per stratum) | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 9.3 Surveillance outcomes (objective dependent) |:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+|9.4 Findings in relation to historical knowledge, trend | :heavy_check_mark: | :heavy_minus_sign:| :heavy_check_mark:| :heavy_minus_sign:|
+|**10. INTERPRETATION**||||
+| 10.1 Surveillance interpretation| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+|**11. REFERENCES**||||
+| 11.1 References | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
 
 
 
-3 old checklist - to be fixed
 
-|Item     | Description |    DF  |   CD  |   PE   |   ED  |
-| :---          |  :---    |       :---: | :---: | :---:  | :---: |
-| **1.2 Geographical area** | The geographical area where the surveillance is designed to provide evidence about. |:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: 
-| **1.3 Susceptible population**  | The specific animal population susceptible to the hazard in the geographical area of interest.|:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: 
-| **1.4 Historical situation**  | Describe the historical status of the hazard in the geographical area and population in question. Describe for how long the hazard has/has not been present in the area and population under surveillance. Briefly describe if there has been surveillance in place, and if so, for how long.|:heavy_check_mark:| :heavy_check_mark: | :heavy_minus_sign:| :heavy_minus_sign:
-| **1.5 Surveillance purpose**  | Explain how the information collected is being used to inform policy decisions (e.g. to eradicate or manage the occurrence of disease or inform trade)? <br> See intermediate (pink) circle in the picture for clarifications. <br><br>    ![Surveillance Objective](https://github.com/SVA-SE/AHSURED/blob/master/img/SurvObj.png) |:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: 
-| **1.6 Surveillance objective**  | Clearly state the overarching surveillance objective(s), as a function of the assumed disease situation and surveillance purpose. See picture above for clarification. <br> <br> **Prevalence estimation**: This objective is appropriate if the target hazard is (thought to be) present in the territory to be covered, and an assessment of the prevalence and or changes in prevalence over time is needed. <br> **Case detection**: Case detection refers to the search for any animals affected, clinically or not, by the hazard under surveillance. This objective is appropriate if the hazard is present, regardless of whether the hazard occurrence is endemic, epidemic or sporadic, and action will be taken to control disease whenever it is detected. <br> **Early detection**: This objective is appropriate for a situation where the disease is currently absent in the country or region. It may be applied to surveillance for an unknown disease or a known disease considered to pose a non−negligible risk of incursion or emergence. It may also apply to the early stages of an outbreak. <br> **Disease freedom**: This objective is appropriate if the target hazard is thought to be absent in the territory to be covered and the aim is to demonstrate disease freedom for trade or non−trade purposes (e.g. improve public health, to decide when to stop an eradication programme and to eliminate production losses and control costs due to endemic disease). This may apply to diseases which a) have been historically absent, b) have been eradicated and official freedom has been confirmed or c) are thought to be eradicated, but official freedom has not yet been confirmed.   <br><br>  Surveillance systems may be used to provide information to address several surveillance objectives, but there is usually one that can be considered as primary. If other (secondary) surveillance objectives are relevant, they can be described for the components in question. |:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: 
-| **1.7 Risk characteristics**  | Risk characteristics associated with the hazard distribution and the susceptible population. Risk can be non−uniformly distributed at various level, such as population (particularly geographical and temporal risk factors), herd or animal. Risk characteristics should be described (whether they can be associated with a higher risk of hazard introduction, infection, detection, and/ or consequences). |:heavy_check_mark:| :heavy_check_mark: | :heavy_minus_sign:| :heavy_check_mark:
-| **1.8 Legal requirements & actions taken as a result of finding**  | Describe the legal support underlying the surveillance, and whether it is a requirement or not to carry out surveillance. Describe also if there are any legal obligations to report, or other requirements (may be associated with quality assurance schemes, declarations for trade etc). Describe what actions are taken in case of a positive result, if any. <br> In case of *passive surveillance*, describe the requirements in place for reporting of a suspect case, as well as the procedures for reporting a suspect case (i.e. the steps involved and the methods employed, including how the notification is sent to the authorities), and the procedures following the reporting of a suspect case to the authorities (for example at what stage would/could restrictions be applied to premises or follow up investigations carried out).|:heavy_check_mark:| :heavy_check_mark: |:heavy_check_mark:|:heavy_minus_sign:
-| **1.9 Institutions involved & financing**  | Mention institutions involved in coordination, field work, laboratory work, financing. Describe the basis for financing. <br> Describe who has been responsible for the collection (e.g. veterinarian, farmer…) and analysis (e.g. lab technician, bioinformatician, …) of the raw data/samples, official laboratory status, accreditation etc. |:heavy_minus_sign:|:heavy_minus_sign:|:heavy_minus_sign:|:heavy_minus_sign:
-| **1.10 Identification of surveillance components** | Identify all the surveillance components belonging to the surveillance system. E.g. Active surveillance at farm; Passive clinical surveillance of sheep and goats; Serological testing of boars at insemination centers; … <br> In case of multi−host hazards or species belonging to multiple production types (e.g. beef, dairy, veal calves), specifically mention the species/production type under surveillance along with the name of the surveillance component (e.g. active surveillance of dairy cattle at farm). <br> Document also whether a particular surveillance component has a different surveillance objective, geographical coverage, target species, …, compared to the overall surveillance system. |:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: 
-| **1.11 Population strata not covered**  |Consider if there are other sectors/strata from the total susceptible population (defined in the surveillance scenario) that are not being covered by all the components the surveillance system together. |:heavy_check_mark:| :heavy_check_mark: |:heavy_check_mark:|:heavy_minus_sign:
 
-&nbsp;
 
-### 2. Surveillance component description
-#### Sections 2 - 9 should be described for each surveillance component separately 
 
-| Item          | Description   |   DF  |   CD  |   PE   |   ED  |
-| :---          |  :---         | :---: | :---: | :---:  | :---: |
-| **2.1 Data collection point** | Where the units of interest can be reached, and therefore where samples will be collected. <br> This could be, e.g., at the source (farm, wild life habitat, etc), abattoir, coordination centre, artificial insemination centre, rendering plants, diagnostic laboratory, markets etc.  | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
-| **2.2 Surveillance approach** | Describe the type of surveillance approach that is used: <br> • Survey <br> • Continuous data collection <br> • Sentinel surveillance <br> • Participatory surveillance <br> • Indicator−based surveillance <br>• Syndromic surveillance | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
-**2.3 Type of hazard indicator** | What outcome is measured for the unit of interest? E.g. is the surveillance aimed at antibody detection, pathogen detection, gross pathology, pathology diagnostic (microscopic) or indirect indicators etc?  | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
-**2.4 Type of material collected** | What is the type of material collected? Examples are clinical reports, blood/serum/plasma, ear notches, tissue (biopsy), tissue (post mortem), milk, semen, urine, feces/ fecal swabs, other swab (not fecal), meat juice, environmental samples or feed, lab testing submissions, social media calls, prescription orders, …  | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
-**2.5 Case definition** | Specify the criteria to identify a case (i.e. hazard occurrence). For example, positive serological test result followed by a positive antigen test. Specify also at which level (animal or herd/flock) the case is defined. <br> In case of *passive* or *syndromic surveillance*, outline the requirements, definition or criteria used to identify a suspect case. | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+
+ 
+
+
+
+
 
 
 
