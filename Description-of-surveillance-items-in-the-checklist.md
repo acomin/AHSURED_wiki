@@ -18,7 +18,7 @@ Describe the historical status of the hazard in the geographical area and popula
 Explain how the information collected is being used to inform policy decisions (e.g. to eradicate or manage the occurrence of disease or inform trade).   
 See intermediate (pink) circle in the picture for clarifications. 
 
-![Surveillance Objective](https://github.com/SVA-SE/AHSURED/blob/master/img/SurvObj.png)  
+![Surveillance Objective](https://raw.githubusercontent.com/SVA-SE/AHSURED/master/img/SurvObj.png)  
 
 ### 1.6 Surveillance objective 
 Clearly state the overarching surveillance objective(s), as a function of the assumed disease situation and surveillance purpose. Refer to the picture above for clarification.  
@@ -156,7 +156,7 @@ Describe the information used to calculate sample size at the SSU level, e.g. th
 Describe the strategy for allocating samples.  
 <br>
 
-![Sample allocation](https://github.com/SVA-SE/AHSURED/blob/master/img/SampleAllocation.png)
+![Sample allocation](https://raw.githubusercontent.com/SVA-SE/AHSURED/master/img/SampleAllocation.png)
 
 ### 7.4 Risk−based allocation 	
 If the samples have been allocated based on risk, describe the factors defining the risk strata. For each risk stratum defined, the following information should be reported:
