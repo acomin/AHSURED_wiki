@@ -1,8 +1,11 @@
-# AHSURED checklist  
-There has been identified a list of items that describe the various **building blocks** of surveillance systems. They have been broken down into sections (belonging to either surveillance system or surveillance component level), namely:
+<p align="center">
+  <img width="500" height="90" src="https://raw.githubusercontent.com/SVA-SE/AHSURED/master/img/Checklist_title.png">
+</p>
+
+There has been identified a list of items that describe the various **building blocks** of surveillance systems. They have been broken down into sections (belonging to either surveillance system or surveillance component level), namely: 
 1. Surveillance system – **Context / background**
 2. Surveillance component – **Component characteristics**
-3. Surveillance component – **Target population**
+3. Surveillance component – **Target population**   
 4. Surveillance component – **Enhancements**
 5. Surveillance component – **Testing protocol**
 6. Surveillance component – **Study design**
@@ -12,7 +15,7 @@ There has been identified a list of items that describe the various **building b
 10. Surveillance system – **Interpretation**
 11. Surveillance system – **References**  
 
-Those items are intended to be part of a *checklist* within the surveillance reporting guidelines.  
+Those items are intended to be part of a *checklist* within the surveillance reporting guidelines.
 A detailed description of each item within the aforementioned sections is provided in the [**description page**](https://github.com/SVA-SE/AHSURED/wiki/Description-of-surveillance-items-in-the-checklist).
 
 &nbsp;
