@@ -15,7 +15,7 @@ There has been identified a list of items that describe the various **building b
 10. Surveillance system – **Interpretation**
 11. Surveillance system – **References**  
 
-Those items are intended to be part of a *checklist* within the surveillance reporting guidelines.
+Those items are intended to be part of a **checklist** within the surveillance reporting guidelines.
 A detailed description of each item within the aforementioned sections is provided in the [**description page**](https://github.com/SVA-SE/AHSURED/wiki/Description-of-surveillance-items-in-the-checklist).
 
 &nbsp;
